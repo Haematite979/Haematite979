@@ -1,8 +1,4 @@
-<div align="center">
-  
-  [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Abayomi_Oluwashina &fontSize=50&fontAlignY=35&desc=Where%20Innovation%20Meets%20Excellence&descAlignY=55&descSize=20&animation=fadeIn)]
-  
-</div>
+
 
 <div align="center">
   
@@ -18,7 +14,7 @@
   
   > *"Crafting digital experiences that inspire, innovate, and impact the world"*
   
-  **🌟 Passionate Developer • 🚀 Framework Creator • 💎 Open Source Advocate**
+  **🌟 Passionate Developer • 🚀 Prefers frontend development• 💎 Open Source Advocate**
   
 </div>
 
@@ -67,5 +63,4 @@ const dconco = {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PhpSPA](https://img.shields.io/badge/PhpSPA-7952B3?style=for-the-badge&logo=php&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
